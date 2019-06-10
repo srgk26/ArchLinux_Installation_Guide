@@ -8,7 +8,7 @@ An inevitable compromise would be a slightly steeper learning curve in the begin
 
 This tutorial is compiled from a wide variety of sources, mixing with it my personal touch in building my Arch Linux system. This would be of benefit for some, exposing you to a probably more personalised installation experience as opposed to a more generalised, plain installation. I have also provided some potentially useful user tips in using Arch Linux.
 
-For current Linux users of other distributions, this process would be much simpler for you, though you may still find Arch Linux installation a bit more daunting at first if you are used to the GUI installation setups to install your Linux distributions. Nonetheless, the installation instructions would apply to you as well.
+For current Linux users of other distributions, this process would be much simpler for you, though you may still find Arch Linux installation a bit more daunting at first if you are used to the GUI installation setups to install your Linux distributions. Nonetheless, these installation instructions would apply to you as well.
 
 Good luck!
 
